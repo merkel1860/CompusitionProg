@@ -13,6 +13,9 @@
         <url-pattern>/faces/*</url-pattern>
         <url-pattern>/faces/resources/*</url-pattern>
         <url-pattern>/faces/resources/css/*</url-pattern>
+        <url-pattern>/faces/resources/view/*</url-pattern>
+        <url-pattern>/faces/resources/js/*</url-pattern>
+        <url-pattern>/faces/resources/html/*</url-pattern>
         <url-pattern>*.xhtml</url-pattern>
     </servlet-mapping>
     <welcome-file-list>

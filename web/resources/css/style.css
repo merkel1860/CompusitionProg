@@ -1,10 +1,14 @@
-footer{
+body{
+    background-color: antiquewhite;
+}
+.footer{
     font-family: "Tibetan Machine Uni";
     font-size: xx-small;
     text-align: center;
+    font-weight: bold;
 }
 
-header{
+.header{
     font-family: "Tibetan Machine Uni";
     font-size: large;
     text-align: left;
